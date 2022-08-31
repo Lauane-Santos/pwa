@@ -1,0 +1,27 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+html, .fullscreen{
+    display: flex;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+.title{
+    font-size: 3rem;
+}
+.linha1{
+    height: 50px;
+    background-color: rgba(206, 229, 208, 1);
+}
+.linha2{
+    height: 30px;
+    width: 198vh;
+    background-color: rgba(206, 229, 208, 1);
+    margin-top: 25px;
+}
+img{
+    width: 300px;
+}
